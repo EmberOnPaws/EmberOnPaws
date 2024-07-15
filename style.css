@@ -30,7 +30,7 @@ bold{
 }
 
 .text-zone {
-    width: 60%; /* 50% of the viewport width */
+    width: 65%; /* 50% of the viewport width */
     padding: 20px;
     background-color: rgba(0, 0, 0, 0.8); /* Background color with transparency */
     border: 1px solid #fff; /* Border color */
